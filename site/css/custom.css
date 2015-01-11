@@ -10,3 +10,145 @@ Pete
 
 --*/
 
+
+
+html {
+  background: #174536;
+  color: white;
+}
+
+#authorpics {
+  padding: 0 0 0 5px; 
+  margin: 0;
+  text-align: center;
+}
+
+#authorpics img {
+  padding: 0;
+  margin: 0;
+  width: 8.25%;
+  min-width: 75px;
+  float: left;
+  opacity: 0.8
+}
+
+#authorpics img:hover {
+  opacity: 1.0;
+  border: 2px solid white;
+}
+
+
+
+/*
+
+body {
+    background-image: url("http://uwpress.wisc.edu/images-pk/Ortiz-All-About-Skin-c.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {text-align: center}
+
+h3 {text-align: center}
+
+blockquote {
+    font-family: "Times New Roman";
+    font-size: 16px;
+    background-color: yellow
+}
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}	
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border: 1px solid #0000ff;
+}
+
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 5px;
+}
+
+
+body {
+    background-image: url("http://uwpress.wisc.edu/images-pk/Ortiz-All-About-Skin-c.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+
+h2 {text-align: center}
+
+
+h3 {text-align: center}
+
+
+blockquote {
+    font-family: "Times New Roman";
+    font-size: 16px;
+    background-color: yellow
+}
+
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}	
+
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+
+div.img a:hover img {
+    border: 1px solid #0000ff;
+}
+
+
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 5px;
+}
+
+
+*/
+
+
+

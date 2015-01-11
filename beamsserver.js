@@ -12,8 +12,6 @@ var fs = require ('fs');
 var app = express();
 var oneDay = 86400000; // The number of milliseconds in one day...
 
-app.use(express.compress()); // Use compress middleware to gzip content...
-
 fs.readFile('/site/img', function (err,data) {
   if (err) {
     return console.log(err);
